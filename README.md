@@ -39,6 +39,7 @@
 
 
 ###
+![snake gif](https://github.com/isaacsamurai/isaacsamurai/blob/output/github-contribution-grid-snake.gif)
 
 <br clear="both">
 
