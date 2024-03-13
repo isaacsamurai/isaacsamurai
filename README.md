@@ -1,4 +1,4 @@
-- <h2 align="left">Olá, meu nome é Isaac Samuel! 👋</h2>
+<h2 align="left">Olá, meu nome é Isaac Samuel! 👋</h2>
 
 - Estou procurando minnha primeira oportunidade de estágio 🔎
 - Estou no 2º período de Sistemas de Informação 📘
