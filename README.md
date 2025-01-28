@@ -1,8 +1,8 @@
 <h2 align="left">Olá, meu nome é Isaac Samuel! 👋</h2>
 
-- 🔎 Estou procurando minnha primeira oportunidade de estágio
-- 🤓 Estou no 2º período de Sistemas de Informação 
-- 🚀 Estou começando como Dev
+- 🚀 Iniciando minha carreira dev
+- 🔎 Estou procurando uma oportunidade como dev júnior
+- 🤓 Estou no 4º período do curso Sistemas de Informação 
 - 🔧 Desenvolvi dois programas para meu trabalho atual, para otimizar tempo e reduzir erros!
 
 <br>
