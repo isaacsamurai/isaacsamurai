@@ -1,9 +1,8 @@
 <h2 align="left">Olá, meu nome é Isaac Samuel! 👋</h2>
 
-- 🚀 Iniciando minha carreira dev
-- 🔎 Estou procurando uma oportunidade como dev júnior
+- 🖥️ Software Engineer
+- 🚀 Dev backend
 - 🤓 Estou no 4º período do curso Sistemas de Informação 
-- 🔧 Desenvolvi dois programas para meu trabalho atual, para otimizar tempo e reduzir erros!
 
 <br>
 
