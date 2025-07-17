@@ -2,7 +2,7 @@
 
 - 🖥️ Software Engineer
 - 🚀 Dev backend
-- 🤓 Estou no 4º período do curso Sistemas de Informação 
+- 🤓 Estou no 5º período do curso Sistemas de Informação 
 
 <br>
 
